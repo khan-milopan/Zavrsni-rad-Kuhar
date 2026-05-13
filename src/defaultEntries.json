@@ -1,0 +1,26 @@
+[
+    {
+        "name": {
+            "en": "Bread",
+            "hr": "Kruh"
+        },
+        "price": 3,
+        "amount": 0.5
+    },
+    {
+        "name": {
+            "en": "Milk",
+            "hr": "Mlijeko"
+        },
+        "price": 1,
+        "amount": 2
+    },
+    {
+        "name": {
+            "en": "Flour",
+            "hr": "Brašno"
+        },
+        "price": 0.75,
+        "amount": 2
+    }
+]
